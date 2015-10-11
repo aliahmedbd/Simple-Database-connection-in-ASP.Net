@@ -1,0 +1,5 @@
+c:\users\n\documents\visual studio 2010\Projects\DatabaseConnection\DatabaseConnection\bin\DatabaseConnection.dll
+c:\users\n\documents\visual studio 2010\Projects\DatabaseConnection\DatabaseConnection\bin\DatabaseConnection.pdb
+c:\users\n\documents\visual studio 2010\Projects\DatabaseConnection\DatabaseConnection\obj\Debug\ResolveAssemblyReference.cache
+c:\users\n\documents\visual studio 2010\Projects\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.dll
+c:\users\n\documents\visual studio 2010\Projects\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.pdb
